@@ -2,3 +2,5 @@
 venv/
 config.py
 spotifyconfig.py
+.cache 
+youtubeconfig.py
